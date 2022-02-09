@@ -1,0 +1,8 @@
+📁 Assets 
+Icons: https://boxicons.com/
+Fonts: https://fonts.google.com/
+GitHub: https://github.com/bedimcode/
+Mixitup: https://www.kunkalabs.com/mixitup/
+Swiper: https://swiperjs.com/
+ScrollReveal: https://scrollrevealjs.org/
+Dopely: https://colors.dopely.top/color-pedia
